@@ -9,6 +9,10 @@ US County Cancer Analysis
 ## Pipeline
 I have downloaded the data as .txt & .csv files, read it into my jupyter notebook, and started to parse out meaningful statistics such as the mortality and incidence rates for each race, gender, and zip code as well as the totals.
 
+I was able to pull out the zip code and create a new column.
+
+
+
 ## Statistics of Interest
 
 
