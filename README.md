@@ -9,9 +9,13 @@ US County Cancer Analysis
 ## Pipeline
 I have downloaded the data as .txt & .csv files, read it into my jupyter notebook, and started to parse out meaningful statistics such as the mortality and incidence rates for each race, gender, and zip code as well as the totals.
 
-I was able to pull out the zip code and create a new column.
+I was able to pull out the FIPS code using REGEX and create a new column.
 
+I used a choropleth map to map out the population of cancer per state 
 
+I was able to get some success using REGEX to extract FIPS codes and then mapping in choropleth the population of cancer per state.
+
+I have joined the two tables of UV rates and Cancer Stats so that now I can perform statistical operations and create choropleth maps of cancer per county, and with respect to race and sex.
 
 ## Statistics of Interest
 
@@ -31,14 +35,7 @@ I was able to pull out the zip code and create a new column.
 
 
 ## Considerations/Issues
-I'm not sure which statistic to trust: the total mortality/incidence or the addition of all of the races per county? The numbers when added are larger than the total which does not suggest that we are missing a minority group but instead suggests the numbers are tabulated differently. --> totals
-
-How do I or can I join my UV data with my Cancer data, especially when the counties aren't making sense? It would be much better to do some correlations and statistical tests with it rather than just overlaying graphs.
-
-
-
-What suggestions do you have for different types of visualizations? Cloropleth map? depends 
-
+Total mortality/incidence is the statistic I chose to trust eventhough the addition of all races per county was greater than the total which does not suggest that we are missing a minority group, but instead suggests the numbers are tabulated differently such as individuals identifying as more than one race.
 
 # Conclusions
 
