@@ -21,16 +21,16 @@ Between the years of __2012-2016__, the US national average rate of melanoma inc
 The highest observed rate of melanoma incidences is in Towns County, Georgia at about __89__ out of every 100,000 people; __316%__ above the national average.
 
 The 10 counties with the highest incidence rates of melanoma are:
-1. Towns County, GA           (__89.2__ people per 100,000)
-2. Beaver County, Utah        (__83.9__ people per 100,000)
-3. Pickens County, GA         (__83.0__ people per 100,000)
-4. Ouray County, CO           (__78.4__ people per 100,000)
-5. Summit County, UT          (__77.8__ people per 100,000)
-6. Sarasota County, FL        (__77.1__ people per 100,000)
-7. Jefferson County, WA       (__74.1__ people per 100,000)
-8. Cape May County, NJ        (__73.6__ people per 100,000)
-9. Union County, GA           (__73.3__ people per 100,000)
-10. Marin County, CA          (__72.3__ people per 100,000)
+1. Towns County, GA|           |(__89.2__ people per 100,000)
+2. Beaver County, UT|          |(__83.9__ people per 100,000)
+3. Pickens County, GA|         |(__83.0__ people per 100,000)
+4. Ouray County, CO|           |(__78.4__ people per 100,000)
+5. Summit County, UT|          |(__77.8__ people per 100,000)
+6. Sarasota County, FL|        |(__77.1__ people per 100,000)
+7. Jefferson County, WA|       |(__74.1__ people per 100,000)
+8. Cape May County, NJ|        |(__73.6__ people per 100,000)
+9. Union County, GA|           |(__73.3__ people per 100,000)
+10. Marin County, CA|          |(__72.3__ people per 100,000)
 
 These findings are consistent with U.S. Census Data which between the years of 2007-2011 said that these states were the top 10 in incidences of melanoma:
 
